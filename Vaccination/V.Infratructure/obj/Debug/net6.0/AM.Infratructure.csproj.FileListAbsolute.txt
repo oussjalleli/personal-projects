@@ -1,0 +1,51 @@
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.Infratructure\bin\Debug\net6.0\AM.Infratructure.deps.json
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.Infratructure\bin\Debug\net6.0\AM.Infratructure.runtimeconfig.json
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.Infratructure\bin\Debug\net6.0\AM.Infratructure.dll
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.Infratructure\bin\Debug\net6.0\AM.Infratructure.pdb
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.Infratructure\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.Infratructure\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.Infratructure\obj\Debug\net6.0\AM.Infratructure.csproj.AssemblyReference.cache
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.Infratructure\obj\Debug\net6.0\AM.Infratructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.Infratructure\obj\Debug\net6.0\AM.Infratructure.AssemblyInfoInputs.cache
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.Infratructure\obj\Debug\net6.0\AM.Infratructure.AssemblyInfo.cs
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.Infratructure\obj\Debug\net6.0\AM.Infratructure.csproj.CoreCompileInputs.cache
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.Infratructure\obj\Debug\net6.0\AM.Infratructure.csproj.CopyComplete
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.Infratructure\obj\Debug\net6.0\AM.Infratructure.dll
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.Infratructure\obj\Debug\net6.0\refint\AM.Infratructure.dll
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.Infratructure\obj\Debug\net6.0\AM.Infratructure.pdb
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.Infratructure\obj\Debug\net6.0\AM.Infratructure.genruntimeconfig.cache
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.Infratructure\obj\Debug\net6.0\ref\AM.Infratructure.dll
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.Infratructure\bin\Debug\net6.0\AM.Infratructure.deps.json
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.Infratructure\bin\Debug\net6.0\AM.Infratructure.runtimeconfig.json
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.Infratructure\bin\Debug\net6.0\AM.Infratructure.dll
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.Infratructure\bin\Debug\net6.0\AM.Infratructure.pdb
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.Infratructure\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.Infratructure\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.Infratructure\obj\Debug\net6.0\AM.Infratructure.csproj.AssemblyReference.cache
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.Infratructure\obj\Debug\net6.0\AM.Infratructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.Infratructure\obj\Debug\net6.0\AM.Infratructure.AssemblyInfoInputs.cache
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.Infratructure\obj\Debug\net6.0\AM.Infratructure.AssemblyInfo.cs
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.Infratructure\obj\Debug\net6.0\AM.Infratructure.csproj.CoreCompileInputs.cache
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.Infratructure\obj\Debug\net6.0\AM.Infratructure.csproj.CopyComplete
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.Infratructure\obj\Debug\net6.0\AM.Infratructure.dll
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.Infratructure\obj\Debug\net6.0\refint\AM.Infratructure.dll
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.Infratructure\obj\Debug\net6.0\AM.Infratructure.pdb
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.Infratructure\obj\Debug\net6.0\AM.Infratructure.genruntimeconfig.cache
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.Infratructure\obj\Debug\net6.0\ref\AM.Infratructure.dll
+C:\Users\oussa\Downloads\Vaccination\V.Infratructure\bin\Debug\net6.0\AM.Infratructure.deps.json
+C:\Users\oussa\Downloads\Vaccination\V.Infratructure\bin\Debug\net6.0\AM.Infratructure.runtimeconfig.json
+C:\Users\oussa\Downloads\Vaccination\V.Infratructure\bin\Debug\net6.0\AM.Infratructure.dll
+C:\Users\oussa\Downloads\Vaccination\V.Infratructure\bin\Debug\net6.0\AM.Infratructure.pdb
+C:\Users\oussa\Downloads\Vaccination\V.Infratructure\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\oussa\Downloads\Vaccination\V.Infratructure\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\oussa\Downloads\Vaccination\V.Infratructure\obj\Debug\net6.0\AM.Infratructure.csproj.AssemblyReference.cache
+C:\Users\oussa\Downloads\Vaccination\V.Infratructure\obj\Debug\net6.0\AM.Infratructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussa\Downloads\Vaccination\V.Infratructure\obj\Debug\net6.0\AM.Infratructure.AssemblyInfoInputs.cache
+C:\Users\oussa\Downloads\Vaccination\V.Infratructure\obj\Debug\net6.0\AM.Infratructure.AssemblyInfo.cs
+C:\Users\oussa\Downloads\Vaccination\V.Infratructure\obj\Debug\net6.0\AM.Infratructure.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Downloads\Vaccination\V.Infratructure\obj\Debug\net6.0\AM.Infratructure.csproj.CopyComplete
+C:\Users\oussa\Downloads\Vaccination\V.Infratructure\obj\Debug\net6.0\AM.Infratructure.dll
+C:\Users\oussa\Downloads\Vaccination\V.Infratructure\obj\Debug\net6.0\refint\AM.Infratructure.dll
+C:\Users\oussa\Downloads\Vaccination\V.Infratructure\obj\Debug\net6.0\AM.Infratructure.pdb
+C:\Users\oussa\Downloads\Vaccination\V.Infratructure\obj\Debug\net6.0\AM.Infratructure.genruntimeconfig.cache
+C:\Users\oussa\Downloads\Vaccination\V.Infratructure\obj\Debug\net6.0\ref\AM.Infratructure.dll

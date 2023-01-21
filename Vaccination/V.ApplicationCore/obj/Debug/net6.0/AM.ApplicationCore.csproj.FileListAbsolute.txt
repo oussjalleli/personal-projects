@@ -1,0 +1,66 @@
+C:\Users\Pc-Nabil\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Pc-Nabil\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc-Nabil\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Pc-Nabil\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\Pc-Nabil\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Pc-Nabil\source\repos\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+C:\Users\Pc-Nabil\source\repos\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Pc-Nabil\source\repos\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Pc-Nabil\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Pc-Nabil\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+C:\Users\Pc-Nabil\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Pc-Nabil\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\wetransfer_airportmanagement_2022-10-13_1043\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\wetransfer_airportmanagement_2022-10-13_1043\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\wetransfer_airportmanagement_2022-10-13_1043\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\wetransfer_airportmanagement_2022-10-13_1043\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\wetransfer_airportmanagement_2022-10-13_1043\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\wetransfer_airportmanagement_2022-10-13_1043\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\wetransfer_airportmanagement_2022-10-13_1043\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\wetransfer_airportmanagement_2022-10-13_1043\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\wetransfer_airportmanagement_2022-10-13_1043\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\wetransfer_airportmanagement_2022-10-13_1043\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\wetransfer_airportmanagement_2022-10-13_1043\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\wetransfer_airportmanagement_2022-10-13_1043\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.runtimeconfig.json
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.genruntimeconfig.cache
+C:\skander\kraya\Esprit\4DS4\.Net\airport manageement\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.runtimeconfig.json
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.genruntimeconfig.cache
+C:\skander\kraya\Esprit\4DS4\.Net\vaccination\Vaccination\V.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+C:\Users\oussa\Downloads\Vaccination\V.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+C:\Users\oussa\Downloads\Vaccination\V.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.runtimeconfig.json
+C:\Users\oussa\Downloads\Vaccination\V.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\oussa\Downloads\Vaccination\V.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\oussa\Downloads\Vaccination\V.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\oussa\Downloads\Vaccination\V.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussa\Downloads\Vaccination\V.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\oussa\Downloads\Vaccination\V.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\oussa\Downloads\Vaccination\V.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Downloads\Vaccination\V.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\oussa\Downloads\Vaccination\V.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+C:\Users\oussa\Downloads\Vaccination\V.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\oussa\Downloads\Vaccination\V.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.genruntimeconfig.cache
+C:\Users\oussa\Downloads\Vaccination\V.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
